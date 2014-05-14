@@ -1,0 +1,20 @@
+**User counts for 2014-5-14 at 16:30**
+
+Channels: ##twitter-bootstrap, #angularjs, #d3.js, #documentcloud, #emberjs, #enjojs, #famous, #ionic, #jquery, #knockoutjs, #marionette, #meteor, #polymer, #reactjs, #three.js, #titanium
+
+196 users on ##twitter-bootstrap
+696 users on #angularjs
+84 users on #d3.js
+165 users on #documentcloud
+401 users on #emberjs
+1 user on #enjojs
+66 users on #famous
+33 users on #ionic
+770 users on #jquery
+31 users on #knockoutjs
+45 users on #marionette
+182 users on #meteor
+59 users on #polymer
+246 users on #reactjs
+97 users on #three.js
+6 users on #titanium

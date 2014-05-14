@@ -1,0 +1,26 @@
+{
+  "name": "arabot",
+  "version": "0.0.1",
+  "description": "tiny irc stats bot",
+  "main": "app.js",
+  "dependencies": {
+    "irc": "~0.3.6",
+    "node-schedule": "~0.1.13",
+    "nodemailer": "~0.6.4",
+    "forever": "~0.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "meli",
+  "license": "MPLv2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arayi/node-irc-monitor"
+  },
+  "bugs": {
+    "url": "https://github.com/arayi/node-irc-monitor/issues"
+  },
+  "homepage": "https://github.com/arayi/node-irc-monitor"
+}
