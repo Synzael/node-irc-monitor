@@ -15,7 +15,7 @@ More detailed docs for `smtpOptions` at [Nodemailer](http://www.nodemailer.com/d
 
 
 ### Component Documentation:
-*[Node-IRC](https://node-irc.readthedocs.org/en/latest/)
-*[Node-schedule](https://www.npmjs.org/package/node-schedule)
-*[Nodemailer](http://www.nodemailer.com/)
-*[Forever](https://github.com/nodejitsu/forever)
+* [Node-IRC](https://node-irc.readthedocs.org/en/latest/)
+* [Node-schedule](https://www.npmjs.org/package/node-schedule)
+* [Nodemailer](http://www.nodemailer.com/)
+* [Forever](https://github.com/nodejitsu/forever)
