@@ -10,19 +10,19 @@ var mainConfig = {
   startMinute: 30,
 
   mainChannel: ['#famous'],
-  otherChannels: ['#angularjs', '#documentcloud', '#marionette', '#d3.js', '#emberjs', '#enjojs', '#reactjs', '#ionic', '#jquery', '#knockoutjs', '#meteor', '#polymer', '#three.js', '#titanium', '#twitter-bootstrap'],
+  otherChannels: ['#angularjs', '#documentcloud', '#marionette', '#d3.js', '#emberjs', '#enyojs', '#reactjs', '#ionic', '#jquery', '#knockoutjs', '#meteor', '#polymer', '#three.js', '#titanium', '#twitter-bootstrap'],
   server: 'irc.freenode.net',
-  botName: 'arabot',
+  botName: 'statsbot',
 
   mailOptions: {
-    from: 'Arayi\'s Logbot <logs@arayi.org>',
-    to: 'Greg Barto <greg@famo.us>, Melody Mustaine <melody@famo.us>',
+    from: 'Outgoing Email <logs@somepla.ce>',
+    to: 'Recipient <greg@somepla.ce>, Other Recipient <melody@somepla.ce>',
   },
 
   smtpOptions: {
     service: 'Zoho',
     auth: {
-      user: 'logs@arayi.org',
+      user: process.env.LOGS_USERNAME,
       pass: process.env.LOGS_PASS
     }
   }
