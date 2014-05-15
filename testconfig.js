@@ -1,1 +1,0 @@
-var testVariable = 'HONK DING BEEP';
